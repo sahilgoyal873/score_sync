@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.phoenix:phoenix-core:4.9.0-HBase-1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.phoenix/phoenix-core/jars/phoenix-core-4.9.0-HBase-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.phoenix/phoenix-core/srcs/phoenix-core-4.9.0-HBase-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

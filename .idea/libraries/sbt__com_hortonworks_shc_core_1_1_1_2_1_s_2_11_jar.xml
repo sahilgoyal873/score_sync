@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.hortonworks:shc-core:1.1.1-2.1-s_2.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.hortonworks/shc-core/jars/shc-core-1.1.1-2.1-s_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
